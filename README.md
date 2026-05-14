@@ -49,7 +49,7 @@
 
 | 项目名称 | 简介说明 | 访问链接 |
 | :--- | :--- | :--- |
-| **Andrej Karpathy Skills** | 由前 OpenAI 科学家 Andrej Karpathy 启发或关联的实用 AI 技能集合，涵盖高阶 Prompt 编写、模型微调理念及智能体协同技巧，是进阶 LLM 玩家的必读仓库。 | [🔗 GitHub 仓库](https://github.com/multica-ai/andrej-karpathy-skills) |
+| **Andrej Karpathy Skills** | 由前 OpenAI 科学家 Andrej Karpathy 启发或关联的实用 AI 技能集合，涵盖高阶 Prompt 编写、模型微调理念及智能体协同技巧，是coding agent的必读仓库。 | [🔗 GitHub 仓库](https://github.com/multica-ai/andrej-karpathy-skills) |
 
 ---
 
