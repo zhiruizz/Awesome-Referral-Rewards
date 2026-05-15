@@ -4,6 +4,9 @@
 
 > **💡 欢迎贡献：** 如果有未提及的优质服务或白嫖福利，非常欢迎在 [Discussion] 中推荐或提交 Pull Request！
 
+
+> 🤖 **此仓库将使用Agent管理**
+
 ---
 
 ## 🏭 模型原厂与白嫖福利 (Official LLM Providers & Free Tiers)
