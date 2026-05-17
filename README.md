@@ -29,8 +29,8 @@
 | :--- | :--- | :--- | :--- |
 | **Pincc** | 稳定且高并发的 LLM API 代理中转服务，兼容主流标准接口格式，极大简化多模型接入成本。 | 🎁 注册获取专属额度及邀请返利 | [🔗 专属邀请链接](https://v2.pincc.ai/register?aff=WW7QJZPKU6ZF) |
 | **OpenCode Go** | 专为开发者优化的代码模型 API 中转服务，提供低延迟的代码补全与生成接口。 | 高效便捷的代码模型接入方案 | [🔗 访问网站](https://opencode.ai/zh/go) |
-| **OpenRouter** | 国际知名的通用 API 聚合器，涵盖几乎所有开源与闭源模型，支持按需扣费。 | 🆓 定期提供免费模型节点（Free tier）供测试 | [🔗 访问官网](https://openrouter.ai/) |
-
+| **OpenRouter** | 国际知名的通用 API 聚合器，涵盖几乎所有开源与闭源模型，支持按需扣费。 | 🆓 提供免费模型节点（Free tier）供测试 | [🔗 访问官网](https://openrouter.ai/) |
+| **AtomGit** | 提供GLM、DeepSeek等模型| 🆓 免费 Coding Plan，适合开发者低成本起步 | [🔗 访问官网](https://ai.atomgit.com/serverless-api) |
 ---
 
 ## 🛠️ 实用工具与生产力客户端 (Developer Tools & Clients)
