@@ -40,6 +40,7 @@
 | :--- | :--- | :--- |
 | **Cursor** | 目前地表最强的 AI 代码编辑器（基于 VSCode 分支），深度融合大模型能力，极大提升开发效率。 | [🔗 访问官网](https://cursor.com/) |
 | **Alibaba Accio AI** | 阿里推出的首个 B2B AI 智能采购专家。只需一句话提示词，即可全自动完成市场洞察、选品分析、以及跨平台（1688、Alibaba）的优质供应商匹配与自动询盘，极大简化电商创业与供应链管理流程。也可用于常规的Agent工作。 | [🔗 专属邀请链接](https://zh.accio.com/invite-work?sId=qAI0LaN86sViKeX9PP9UBA%3D%3D&ic=IC701502976767&tenant=accio&src=p_referral_IC701502976767&return_url=https%3A%2F%2Fzh.accio.com%2Fwork%2F) |
+| **Qoder CN (阿里·通义灵码)** | 阿里旗下 AI 编程助手（原通义灵码全新升级），支持自主智能体 Quest 模式、Agentic Chat、智能代码补全、Repo Wiki 知识沉淀，最高 100k 文件代码库分析与 26 小时连续智能体运行。 | [🔗 专属邀请链接](https://qoder.com.cn/referral?referral_code=qAqHH48pXaVHfB4Bo9uN6ePDsjuygOrW) |
 | **LiteLLM** | 开源的 API 代理路由网关，使用 OpenAI 格式调用 100+ 不同的 LLM API（Anthropic, Huggingface, Gemini 等）。 | [🔗 GitHub 仓库](https://github.com/BerriAI/litellm) |
 | **Coding Plan 对比** | 实时更新的聚合型网站，横向评测并对比各家 LLM 服务商的 Coding Plan，挑选生产力 API 的绝佳参考。 | [🔗 访问网站](https://www.coding-plan.xyz/) |
 | **Antigravity Manager** | 一款轻量级、高效的管理工具，旨在帮助开发者更便捷地管理和调度 API 资源与环境配置。 | [🔗 GitHub 仓库](https://github.com/lbjlaq/Antigravity-Manager) |
