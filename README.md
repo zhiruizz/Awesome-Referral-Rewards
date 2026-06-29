@@ -57,6 +57,15 @@
 
 ---
 
+## ☁️ 云存储与数字服务 (Cloud Storage & Digital Services)
+适合日常文件管理、跨设备同步和影音资源保存的实用数字服务。
+
+| 服务名称 | 简介说明 | 优惠 / 备注 | 专属链接 |
+| :--- | :--- | :--- | :--- |
+| **PikPak** | 面向全球用户的云存储与下载服务，支持文件云端保存、跨设备访问与便捷资源管理，适合影音资料与常用文件归档。 | 🎁 Black Friday 购买会员有优惠；全球特定地区有优惠活动。 | [🔗 专属邀请链接](https://mypikpak.com/referral/intro?invite_code=L9pHSEwI) |
+
+---
+
 ## 🌐 优质代理加速 (Network Acceleration)
 高质量的海外网络接入点，专为解决各类严格限制 IP 的 AI 服务（如 ChatGPT, Claude）而生。
 
